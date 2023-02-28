@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pendant Street Light
+* source:	https://sketchfab.com/3d-models/pendant-street-light-584b4d12237d4cf1863bf0a5a8fe4748
+* author:	michaelazamar268 (https://sketchfab.com/michaelazamar268)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pendant Street Light" (https://sketchfab.com/3d-models/pendant-street-light-584b4d12237d4cf1863bf0a5a8fe4748) by michaelazamar268 (https://sketchfab.com/michaelazamar268) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
